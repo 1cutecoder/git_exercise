@@ -11,6 +11,7 @@ public class MultiUser {
 
 
     String username;
+	String meishayong;
 
     String password;
 
