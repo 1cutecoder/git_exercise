@@ -10,7 +10,7 @@ import java.util.Date;
 public class MultiUser {
 
 
-    String username;
+    String username2;
 	
 	String meishayong1;
 
