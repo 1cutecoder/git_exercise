@@ -11,7 +11,7 @@ public class MultiUser {
 
 
     String username;
-
+	String m2;
     String password;
 
     String mail;
